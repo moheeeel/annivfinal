@@ -1,0 +1,266 @@
+{
+  "casal": {
+    "nome1": "Moh",
+    "nome2": "Marwa",
+    "dataInicio": "2021-10-18"
+  },
+  "curiosidades": [
+    {
+      "titulo": "Où Tout a Commencé",
+      "texto": "Tout a commencé au lycée, lors du cours pour élire le délégué. C'est là que je t'ai vu pour la première fois. J'ai pris du temps avant de te parler, mais quand j'ai finalement eu le courage de t'inviter à sortir, tu as failli me laisser en plan pcq c'était tout nouveau pour toi. Mais au final, nous sommes partis manger de bon sushis ensemble et nous avons découvert que l'alchimie entre nous était parfaite.",
+      "carrossel": [
+        {
+          "url": "assets/images/1encontro.jpg",
+          "descricao": "Une de nos premières photos ensemble !"
+        },
+        {
+          "url": "assets/images/taisho.jpg",
+          "descricao": "Notre premier bisous 🥰​"
+        },
+        {
+          "url": "assets/images/escola.jpg",
+          "descricao": "Nos premières fois au lycée ensemble"
+        },
+        {
+          "url": "assets/images/12bis.jpg",
+          "descricao": "Le donut en séchant les cours parce que tu allais mal :("
+        },
+        {
+          "url": "assets/images/2.jpg",
+          "descricao": "Première fois au musée aussi... Shojo vibe✨ ​"
+        }
+      ]
+    },
+    {
+      "titulo": "Moments Préférés",
+      "texto": "Tous mes moments avec toi sont uniques mon coeur, mais j'en ai sélectionné quelques-uns avec des photos. Ces moments où j'ai complètement oublié le monde et les problèmes, et où j'ai pensé qu'à ta compagnie.",
+      "carrossel": [
+        {
+          "url": "assets/images/5.jpg",
+          "descricao": "Quand on est partis à Disneyland ensemble !!!!"
+        },
+        {
+          "url": "assets/images/9doutora.jpg",
+          "descricao": "Nos voyages à Paris, + première fois où je t'ai vu avec un voile :)"
+        },
+        {
+          "url": "assets/images/paris.jpg",
+          "descricao": "Le tout premier voyage !"
+        },
+        {
+          "url": "assets/images/18.jpg",
+          "descricao": "Notre voyage à Gant aussi était incroyable, on avait vraiment trop kiffé"
+        },
+        {
+          "url": "assets/images/15bis.jpg",
+          "descricao": "Us and medhette"
+        },
+        {
+          "url": "assets/images/19.jpg",
+          "descricao": "mdr on est quand même vrm gros aussi hehe"
+        }
+      ]
+    },
+    {
+      "titulo": "Moments Ensemble",
+      "texto": "J'ai sélectionné quelques moments où j'ai réalisé combien nous sommes des âmes soeurs, que ce soit dans les difficultés ou  au quotidien. Tu es toujours à mes côtés et je suis toujours aux tiens, et cela me rend très heureux.",
+      "carrossel": [
+        {
+          "url": "assets/images/1.jpg",
+          "descricao": "Quand on était dépité de nos résultats du bac mais que la vie continuait parce qu'on était ensemble"
+        },
+        {
+          "url": "assets/images/16Palmeiras.jpg",
+          "descricao": "Le jour où on s'est baladé en trotinette et que t'étais tombée :/, mais tu es quand même passée outre ça et étais toute souriante juste après !"
+        },
+        {
+          "url": "assets/images/10newdate.jpg",
+          "descricao": "Quand on a décidé de faire nuit blanche et de rester ensemble du matin au soir et de sécher les cours pcq tu allais mal :(, en faisant de l'acrobranche :p"
+        }
+      ]
+    },
+    {
+      "titulo": "Ma Chose Préférée en Toi",
+      "texto": "Il est impossible de décrire une seule chose chez toi que j'aime. C'est difficile d'exprimer tout ce que j'aime et admire chez toi. J'aime ton sourire, ta gentillesse, ta sympathie, tes yeux, tes grimaces, tes blagues. Bref, j'aime tout chez toi.",
+      "carrossel": [
+        {
+          "url": "assets/images/sorriso.jpg",
+          "descricao": "Ta joie et ton énergie contagieuse"
+        },
+        {
+          "url": "assets/images/20.jpg",
+          "descricao": "Ton beau sourire"
+        },
+        {
+          "url": "assets/images/meigo.jpg",
+          "descricao": "Ton innocence et ta façon tendre d'être"
+        }
+      ]
+    }
+  ],
+
+  "galeria": {
+    "titulo": "Notre galerie de souvenirs",
+    "descricao": "Tous nos moments spéciaux conservés pour toujours",
+    "fotos": [
+      {
+        "url": "assets/images/1encontro.jpg",
+        "descricao": "Notre première photo ensemble!",
+        "data": "2021-10-14",
+        "categoria": "primeiros-momentos"
+      },
+      {
+        "url": "assets/images/taisho.jpg",
+        "descricao": "Notre premier bisous 🥰",
+        "data": "2021-10-18",
+        "categoria": "primeiros-momentos"
+      },
+      {
+        "url": "assets/images/escola.jpg",
+        "descricao": "Nos premiers moments au lycée ensemble",
+        "data": "",
+        "categoria": "primeiros-momentos"
+      },
+      {
+        "url": "assets/images/8.jpg",
+        "descricao": "Tous les piques niques étaient incroyables",
+        "data": "",
+        "categoria": "especiais"
+      },
+      {
+        "url": "assets/images/9doutora.jpg",
+        "descricao": "PARIS x2​",
+        "data": "",
+        "categoria": "viagens"
+      },
+      {
+        "url": "assets/images/10newdate.jpg",
+        "descricao": "",
+        "data": "",
+        "categoria": "primeiros-momentos"
+      },
+      {
+        "url": "assets/images/1.jpg",
+        "descricao": "Photo de mon anniversaire tu m'as préparé un gateau et on allait faire pleins d'activités cools",
+        "data": "",
+        "categoria": "eventos"
+      },
+      {
+        "url": "assets/images/16Palmeiras.jpg",
+        "descricao": "La chute.",
+        "data": "",
+        "categoria": "cotidiano"
+      },
+      {
+        "url": "assets/images/15bis.jpg",
+        "descricao": "Le donut en séchant les cours parce que tu allais mal",
+        "data": "",
+        "categoria": "especiais"
+      },
+      {
+        "url": "assets/images/12bis.jpg",
+        "descricao": "Le donut hehe",
+        "data": "",
+        "categoria": "primeiros-momentos"
+      },
+      {
+        "url": "assets/images/sorriso.jpg",
+        "descricao": "Ton beau sourire",
+        "data": "",
+        "categoria": "eventos"
+      },
+      {
+        "url": "assets/images/2.jpg",
+        "descricao": "La première fois au musée",
+        "data": "",
+        "categoria": "especiais"
+      },
+      {
+        "url": "assets/images/3.jpg",
+        "descricao": "Dans notre safe place :3",
+        "data": "",
+        "categoria": "cotidiano"
+      },
+      {
+        "url": "assets/images/4.jpg",
+        "descricao": "Quand on est parti à IKEA",
+        "data": "",
+        "categoria": "especiais"
+      },
+      {
+        "url": "assets/images/5.jpg",
+        "descricao": "DISNEYLAND PUREE",
+        "data": "",
+        "categoria": "viagens"
+      },
+      {
+        "url": "assets/images/6.jpg",
+        "descricao": "goofy face",
+        "data": "",
+        "categoria": "especiais"
+      },
+      {
+        "url": "assets/images/7.jpg",
+        "descricao": "",
+        "data": "",
+        "categoria": "eventos"
+      },
+      {
+        "url": "assets/images/8.jpg",
+        "descricao": "Dans un restaurant de hamburgers, juste nous aimer",
+        "data": "",
+        "categoria": "especiais"
+      },
+      {
+        "url": "assets/images/meigo.jpg",
+        "descricao": "Peut-être la photo de toi que j'aime le plus",
+        "data": "",
+        "categoria": "cotidiano"
+      },
+      {
+        "url": "assets/images/17.jpg",
+        "descricao": "",
+        "data": "",
+        "categoria": "primeiros-momentos"
+      },
+      {
+        "url": "assets/images/13.jpg",
+        "descricao": "Nos premiers pas de danse à Hall U Need",
+        "data": "27-09-2021",
+        "categoria": "primeiros-momentos"
+      },
+      {
+        "url": "assets/images/paris.jpg",
+        "descricao": "PARIS",
+        "data": "",
+        "categoria": "viagens"
+      },
+      {
+        "url": "assets/images/18.jpg",
+        "descricao": "GANT",
+        "data": "",
+        "categoria": "viagens"
+      },
+      {
+        "url": "assets/images/14.jpg",
+        "descricao": "Projet ensemble",
+        "data": "",
+        "categoria": "cotidiano"
+      }
+    ],
+    "categorias": [
+      "todos",
+      "primeiros-momentos",
+      "viagens",
+      "cotidiano",
+      "eventos",
+      "especiais"
+    ]
+  },
+
+  "playlist": {
+    "titulo": "Notre playlist",
+    "url": "https://open.spotify.com/embed/playlist/1JmHoomATE4xPCe0TmzzsL?utm_source=generator",
+    "descricao": "Les chansons qui ont marqué le début de notre histoire (faudrait qu'on en refasse une ensemble !)"
+  }
+}
